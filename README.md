@@ -1,0 +1,2 @@
+# rock-fracture-intelligent
+D-Linknet is a neural network model for image semantic segmentation, which is improved on the basis of the Linknet network model by adding the dilated convolution module and Resnet module suitable for small target semantic segmentation. D-Linknet was once used in the field of satellite road identification. we made some improvements, such as adjusting the convolution pooling depth and the loss function, in order to be better applied to the semantic segmentation of rock fractures.
